@@ -1,4 +1,0 @@
-numpy
-open-cv
-tensorflow
-albumentations
